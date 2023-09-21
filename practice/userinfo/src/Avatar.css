@@ -1,0 +1,19 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+.flex-item4 {
+    width: 500px;
+    padding: 40px 0 0 100px;
+  }
+
+.avatar {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+  }
+
+.name {
+    font-style: italic;
+  }
