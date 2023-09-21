@@ -1,0 +1,17 @@
+.Table {
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th, tr, td {
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.pic {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
