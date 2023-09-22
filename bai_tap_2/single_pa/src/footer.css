@@ -1,0 +1,22 @@
+.mxh{
+    width: 80px;
+    padding: 10px;
+    float: right;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+.fb{
+    background-color: gray;
+}
+.zl{
+    background-color: blueviolet;
+}
+.footer{
+    position: relative;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    font-weight: 700;
+}

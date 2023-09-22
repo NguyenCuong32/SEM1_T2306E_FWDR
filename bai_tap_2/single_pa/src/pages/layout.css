@@ -1,0 +1,17 @@
+.nav{
+    margin: 20px;
+}
+.link{
+    text-decoration: none;
+    text-align: center;
+    font-weight: 700;
+    color: #fff;
+    margin: 4px;
+    padding: 10px 20px;
+    background-color: rgb(147, 207, 144);
+    border-radius: 10px;
+
+}
+.link:hover{
+    opacity: 0.5;
+}

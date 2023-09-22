@@ -1,0 +1,18 @@
+.user{
+    display: flex;
+    margin-top: 80px;
+}
+.img_user{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.img{
+    width: 30%;
+}
+.profile_user{
+    width: 50%;
+}
+.span_profile{
+    font-weight: 500;
+}

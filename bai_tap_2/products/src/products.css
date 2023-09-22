@@ -1,0 +1,12 @@
+table,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+}
+table{
+    width: 50%;
+    height: 300px;
+}
+.Item{
+    background-color: green;
+}
