@@ -1,0 +1,41 @@
+.product-container{
+    display: flex; 
+}
+.product-container2{
+    margin-left: 100px;
+}
+.pic{
+    width: 250px;
+    height: 250px;
+    border-radius: 60%;
+}
+.footer3{
+    text-transform: uppercase;
+
+}
+.footer1{
+    margin-top: 300px;
+    display: flex;
+    position: relative;
+}
+.footer2{
+    position: absolute;
+    right: 0;
+    display: flex;
+}
+.footer2 > p {
+    margin: 20px;
+    width: 100px;
+    height: 50px;
+    border: 1px solid #000;
+    line-height: 50px;
+    text-align: center;
+}
+.p-1{
+    background-color: #16cd68;
+    color: rgb(237, 247, 243);
+}
+.p-2{
+    background-color: blueviolet;
+     color: rgb(237, 247, 243);
+}

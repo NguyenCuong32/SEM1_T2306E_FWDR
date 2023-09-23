@@ -1,0 +1,21 @@
+.list-user-profite{
+    display: flex;
+  }
+  .profite1{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+  }
+  .profite2,.profite1{
+  text-align: center;
+  }
+  button:hover{
+    background-color: aqua;
+    color: #ed0909;
+    border: #FFF;
+    border-radius: 5px;
+  }
+  .thang{
+    display: flex;
+  }
+  
