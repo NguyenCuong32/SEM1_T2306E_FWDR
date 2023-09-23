@@ -20,8 +20,8 @@ function User(props) {
 Hi, <span className="user-firt-name"> {name}</span>
 </h2>
 <div>
-    <button onClick={()=>(setCount1((c)=>c+1), setCount2((c)=>c-1))} className="abc" style={{fontSize:20}}> Like 👍 {calc}</button>
-    <button onClick={()=>(setCount2((c)=>c+1), setCount1((c)=>c-1))} className="abc" style={{fontSize:20}}> Dislike 👎 {calc2} </button>
+    <button onClick={()=>(setCount1((c)=>c+1), setCount2((c)=>c-1))} className="abc" style={{fontSize:10}}> Like 👍 {calc}</button>
+    <button onClick={()=>(setCount2((c)=>c+1), setCount1((c)=>c-1))} className="abc" style={{fontSize:10}}> Dislike 👎 {calc2} </button>
     
   </div>
    </section>
