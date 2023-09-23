@@ -1,0 +1,44 @@
+nav 
+{
+  text-align: left
+  ;
+}
+
+
+.user, .about, .home
+{
+  margin-right: 20px;
+}
+
+
+h1
+{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: green;
+}
+
+.profile-pic
+{
+  vertical-align: middle;
+  width: 500px;
+  height: 500px;
+  border-radius: 50%;
+}
+
+.user-div
+{
+  text-align: center;
+}
+
+.user-name
+{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  color: blueviolet;
+}
+
+.buttons
+{
+  display: flex;
+  margin-left: 43pc;
+}
