@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+h1{
+  color:black;
+}
+h2{
+  color: rgb(18, 29, 184);
+}
+.flex-container
+{
+    display: flex;
+    flex-direction: row;
+   
+}
+
+.flex-item1
+{
+    background-color: rgb(226, 180, 247);
+    width: 100px;
+    margin: 10px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+ 
+}
+.abc
+{
+  background-color: rgb(226, 180, 247);
+  width: 100px;
+  margin: 20px;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+ 
+}
+
+.navi
+{
+
+font-size: 50px;
+margin: 50px;
+border: 30px;
+
+}
+
+
+
