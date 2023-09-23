@@ -4,7 +4,7 @@ import './layout.css'
 const Layout = ()=>{
     return(
         <nav className='nav'>
-            <Link className='Product link' to="/Product">Product</Link>
+            <Link className='Product link' to="/">Product</Link>
             <Link className='Uesr link' to="/User">UserInformation</Link>
             <Outlet></Outlet>
         </nav>
