@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+table, th, td {
+  border: 1px solid black;
+}
+th{
+  color: white;
+  background-color: chocolate;
+}
+.mytable{
+  border-collapse: collapse;
+  width: 98vw;
+  height: 20vh ;
+}

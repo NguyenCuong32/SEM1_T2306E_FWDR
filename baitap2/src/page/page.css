@@ -1,0 +1,68 @@
+.navigate{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.nav1{
+    background-color: #4fac2b;
+    color: white;
+    text-decoration: none;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    margin: 16px;
+    border-radius: 16px;
+    padding-top: 8px;
+    
+}
+.nav2{
+    background-color: #36751de7;
+    color: white;
+    text-decoration: none;
+    width: 120px;
+    height: 40px;
+    text-align: center;
+    margin: 16px;
+    border-radius: 16px;
+    padding-top: 8px;
+}
+h2{
+    text-align: center;
+    color: #40cf1cc5;
+}
+h3{
+    text-align: center;
+    margin: 16px;
+}
+.container-user{
+    display: flex;
+}
+.image{
+    border-radius: 50%;
+    width: 320px;
+    height: 320px;
+    margin: 32px;
+}
+.table{
+    text-align: left;
+    font-size: 24px;
+    padding-top: 120px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+.icon{
+    display: flex;
+    justify-content: flex-end;
+}
+.facebook{
+    font-size: 40px;
+    margin: 16px;
+}
+.instagram{
+    font-size: 40px;
+    margin: 16px;
+}
+.nav1:hover{color: coral;transform: scale(0.9);}
+.nav2:hover{color: coral;transform: scale(0.9);}
