@@ -1,0 +1,19 @@
+.content-box{
+    display: flex;
+    border-radius: 50px;
+    
+}
+.content-box3, img{
+    width: 600px;
+    height: 600px;
+   border-radius: 300px;
+   
+    
+    
+}
+.box4{
+    margin-left: 60px;
+    font-size: 30px;
+    
+}
+

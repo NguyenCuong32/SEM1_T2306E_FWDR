@@ -1,0 +1,26 @@
+.footer-box{
+    display: flex;
+    margin-top: 200px;
+    font-size: 30px;
+    text-decoration: none;
+}
+.box5{
+    
+}
+.box6{
+    margin-left: 700px;
+    background-color: rgb(18, 198, 138);
+    width: 250px;
+    height: 60px;
+    text-align: center;
+    padding-top: 25px;
+    text-decoration: none;
+}
+.box7{
+    margin-left: 3px;
+    background-color: rgb(100, 28, 167);
+    width: 250px;
+    text-align: center;
+    padding-top: 25px;
+    
+}
