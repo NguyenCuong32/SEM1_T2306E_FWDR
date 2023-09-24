@@ -1,0 +1,19 @@
+.layout {
+    font-size: 30px;
+    margin: 10px;
+}
+
+.space {
+    padding-right: 5px;
+    background-color: #81D189;
+    text-decoration: none;
+    width: 100px;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 45px;
+    margin: 10px;
+    font-weight: bold;
+    color: white;
+    box-shadow: 3px 3px 3px gray;
+}
+
