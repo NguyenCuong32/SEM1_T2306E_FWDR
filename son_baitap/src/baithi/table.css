@@ -1,0 +1,13 @@
+.table  th{
+    width: 200px;
+    height: 100px;
+    background-color: #569ee5;
+    color: #fff;
+}
+.table td{
+    width: 200px;
+    height:30px;
+    background-color: aqua;
+    text-transform: uppercase;
+    text-align: center;
+}

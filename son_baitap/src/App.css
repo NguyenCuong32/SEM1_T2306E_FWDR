@@ -1,0 +1,47 @@
+.User {
+    text-decoration:none ;
+    padding: 5px  ;
+    color: white  ;
+    background-color: rgb(114 , 114 , 114)  ;
+    border-radius: 5px  ;
+    margin: 10px 
+  }
+.Table{
+    padding: 5px  ;
+    color : white  ;
+    background-Color: rgb(25, 50, 2)  ;
+    border-radius: 5px  ;
+    text-decoration: none  ;
+  } 
+  .facebook{
+    padding: 5px  ;
+    background-color: rgb(150, 120 , 130)  ;
+    border-radius: 5px  ;
+    text-decoration: none  ;
+    color: white  ;
+  } 
+ .Zalo{
+    padding: 5px  ;
+    background-color: rgb(12 ,57 ,150)  ;
+    border-radius: 5px  ;
+    margin: 10px  ;
+    text-decoration: none  ;
+    color: white  ;
+  } 
+  .home{
+    padding: 5px  ;
+    background-color: rgb(12 ,57 ,150)  ;
+    border-radius: 5px  ;
+    margin: 10px  ;
+    text-decoration: none  ;
+    color: white  ;
+  }
+  footer{
+ 
+    display: flex  ;
+    position:relative;
+    bottom:  10px   ;
+    right:  0   ;
+    left:  0   ;
+     justify-content:  space-between  
+  }
