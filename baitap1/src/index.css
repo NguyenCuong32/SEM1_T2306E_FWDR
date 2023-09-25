@@ -1,0 +1,129 @@
+
+.All {           /* KHUNG */
+  max-width: 1260px;
+  margin: 0px 10%;
+  justify-content: center;
+  padding: 0px;
+  font-family: sans-serif;
+  background-color: rgb(246, 236, 241)
+}
+
+
+.Top {    /* 2 NÚT chung */
+  color: brown;
+  display: flex; 
+  text-align: center; /*chữ ra giữa DÒNG*/
+  margin-top: 0px;
+  margin-left: 16px;
+  font-size: 22px;
+  font-weight:bold;
+}
+
+.Top>div {  /* 2 NÚT div*/
+  margin: 6px;
+  width: 210px;
+  height: 45px;
+  line-height: 45px;
+  border-radius: 10px;   /* bo viền*/
+  text-decoration: none;
+  color: white;
+}
+.Top>div:hover {   /* HOVE 2 NÚT*/
+    background-color: rgb(83, 88, 232);
+    color: red;
+}
+
+.Top>.Product { 
+  background-color: rgb(119, 211, 96); /* MẦU NÚT TRÁI*/
+  box-shadow: 0px 8px 9px 0px #5c3b5091; /*tạo bóng khunG*/
+  width: 150px;
+
+}
+
+.Top>.Information {
+  background-color: rgb(98, 218, 166); /* MẦU NÚT PHẢI*/
+  box-shadow: 0px 8px 9px 0px #5c3b5091; /*tạo bóng khunG*/
+}
+
+/* ==========AVATA===== */
+.Avatar {
+  display: flex;
+  margin-top: 45px;
+  background-color: rgb(172, 239, 239);
+}
+
+.Avatar>div>img {
+  margin-left: 10px;
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+
+
+}
+
+.Avatar>.TTnguoidung {
+  margin-top: 9.5%;
+  margin-left: 50px;
+  font-size: 22px;
+  font-weight:bold;
+ 
+}
+
+.Footer { /* FOOTER*/
+  display: flex;
+  margin-top: 200px;
+}
+
+.Footer>div {
+  /* background-color: white; */
+  flex-grow: 1;
+  text-align: left;
+  line-height: 40px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.Footer a{
+  text-decoration: none;        /* bo gạch chân Zalo FB */
+}
+
+.Footer>.address {
+  flex-grow: 5;
+}
+
+.facebook {
+  background-color: aquamarine;
+  box-shadow: 0px 8px 9px 0px #5c3b5091;
+  border-radius: 10px;
+  justify-content: center;
+  display: flex;
+  width: 150px;
+  flex-grow: 1;
+  font-weight: bold;
+  text-align: center;
+  font-size: 15px;
+  line-height: 40px;
+}
+
+.zalo {
+  background-color: royalblue;
+  box-shadow: 0px 8px 9px 0px #5c3b5091;
+  border-radius: 10px;
+  justify-content: center;
+  display: flex;
+  width: 150px;
+  flex-grow: 1;
+  font-weight: bold;
+  text-align: center;
+  font-size: 15px;
+  line-height: 40px;
+}
+
+.zalo:hover {   /* HOVE 2 NÚT*/
+  background-color: rgb(233, 112, 32);
+  color: blue;
+}
+.facebook:hover {   /* HOVE 2 NÚT*/
+  background-color: rgb(233, 112, 32);
+  color: blue;
+}
