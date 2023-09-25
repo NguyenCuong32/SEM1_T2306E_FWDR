@@ -6,6 +6,6 @@ const layout = () => {
             <Link className="product" to="/product">Product</Link>
             <Link className="userimformation" to="/userimformation">User information</Link>
         </nav>
-    )
-};
+    );
+}
 export default layout;
