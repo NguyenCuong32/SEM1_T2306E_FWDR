@@ -1,0 +1,27 @@
+.firstname {
+    text-align: center;
+    color: red;
+    font-size: 30px;
+  }
+  
+  .user-pic {
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+  }
+  
+  .user-name {
+    text-align: center;
+    float: inline-start;
+  }
+
+  .flex-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .flex-item {
+    display: flex;
+    justify-content: center;
+  }
+
