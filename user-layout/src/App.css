@@ -1,0 +1,76 @@
+header
+{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.headerNAVproduct
+{
+    text-decoration: none;
+    color: white;
+    background-color: #59D466;
+    text-align: center;
+    padding: 10px 15px 10px 10px;
+}
+
+.title
+{
+    color: blue;
+    text-align: center;
+}
+
+.center
+{
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+.avatar
+{
+    width: 100px;
+    height: 100px;
+}
+
+.grid
+{
+    display: flex;
+}
+
+.squarelist2
+{
+    display: grid;
+    justify-items: center;
+    grid-template-columns: 50% 50%;
+    margin-top: 29pc;
+    margin-bottom: 1.5pc;
+}
+
+.fbcontainer
+{
+    border: 0.2pc;
+    box-sizing: initial;
+    width: 100px;
+    height: 25px;
+    background-color: #6EBBA8;
+    text-align: center;
+    padding-right: 20px;
+    padding-top: 5px;
+}
+
+.zlcontainer
+{
+    border: 0.2pc;
+    box-sizing: initial;
+    width: 100px;
+    height: 25px;
+    background-color: #7078C2;
+    text-align: center;
+    padding-right: 20px;
+    padding-top: 5px;
+}
+
+.fbzlcontainer
+{
+    display: flex;
+}
