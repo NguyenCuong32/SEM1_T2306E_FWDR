@@ -1,0 +1,34 @@
+.user{
+    display: flex;    
+}
+.img1{
+    border-radius: 100px;
+}
+.address{
+    display: flex;
+}
+.address{
+    margin-: 200px;
+    width: 1500px;
+}
+.fz{
+    margin-left: 800px;
+    display: flex;
+    /* height: 50px; */
+    justify-content: center;
+    align-items: center;
+}
+.fa1{
+    background-color: rgba(16, 184, 114, 0.473);
+    width: 100px;
+    text-align: center;  
+}
+.zl1{
+    background-color: rgb(60, 60, 189);
+    width: 100px;  
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    
+    
+}

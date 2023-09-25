@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "username":"Nguyen",
+        "fullname":"Nguyen Thanh Binh"
+    },
+    {
+        "id":2,
+        "username":"Pham",
+        "fullname":"Pham Ngoc Minh"
+    },
+    {
+        "id":3,
+        "username":"Tran",
+        "fullname":"Tran Tuan Anh"
+    }
+]
