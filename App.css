@@ -1,0 +1,20 @@
+img{
+  width: 200px;
+  height: 100px;
+  
+}
+
+th{
+  width: 200px;
+  height: 100px;
+  border: 1px solid #000;
+  background-color: #5c4a59;
+  color: #fff;
+}
+td{
+  width: 100px;
+  height: 50px;
+  background-color: rgb(126, 191, 133);
+  text-transform: uppercase;
+  text-align: center;
+}
