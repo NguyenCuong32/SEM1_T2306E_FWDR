@@ -1,0 +1,64 @@
+.nav {
+    list-style-type: none;
+    height: 70px;
+    display: flex;
+    font-size: 25px;
+    color: aliceblue;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-product{
+    margin-right: 20px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #81D189; 
+    width: 200px; 
+    border-radius: 10px;
+}
+
+.nav-user{
+    margin-right: 20px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #C3DAD0; 
+    width: 200px; 
+    border-radius: 10px 10px 10px 10px;
+}
+
+.profile{
+    width: 400px;
+    height: 400px;
+    border-radius: 280px;
+    margin-top: 80px;
+}
+.h1{
+    display: flex;
+
+}
+.h2{
+    margin-top: 100px;
+    margin-left: 50px;
+    font-size: 25px;
+}
+#footer{
+    margin-top: 70px;
+}
+.h4{
+    background-color: rgb(3, 75, 51);
+    width: 100px;
+    float: right;
+    padding: 10px;
+    text-align: center;
+    background-color: #6EBBA8
+}
+.h5{
+    background-color: rgb(3, 75, 51);
+    width: 100px;
+    float: right;
+    padding: 10px;
+    text-align: center;
+    background-color: #7078C2
+}
