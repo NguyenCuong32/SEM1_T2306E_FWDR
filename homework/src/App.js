@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 
-function App() {
+function User() {
   const pic ="https://as2.ftcdn.net/v2/jpg/03/64/21/11/1000_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg"
   return (
     <section>
@@ -39,4 +39,4 @@ function App() {
   );
 }
 
-export default App;
+export default User;
