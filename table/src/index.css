@@ -1,0 +1,13 @@
+th{
+  width: 200px;
+  height: 100px;
+  border: 1px solid #000;
+  background-color: #4f11e0;
+  color: #fff;
+}
+td{
+  width: 100px;
+  height: 50px;
+  background-color: rgb(225, 220, 233);
+  text-transform: uppercase;
+}
