@@ -2,7 +2,7 @@ import './index.css';
 
 function Navigation() {
     return (         /* ===2 NÚT=== */
-        <diV className='All'>
+        <div className='All'>
             <div className='Top'>
                 <div className='Product'><h>Product</h></div>
                 <div className='Information'><h>User Information</h></div>
@@ -10,7 +10,7 @@ function Navigation() {
                    {/* ============== */}
 
             <div className='Avatar'> {/* AVATA & THÔNG TIN NGƯỜI DÙNG*/}
-                <div className='Anhdaidien'><img className='avata' src='https://1.bp.blogspot.com/-g5X5RMt3qc4/YM9SQzzU7YI/AAAAAAAAARs/7JEMykTnSSoxjEKzmvDl6bnyggSZgLSkgCLcBGAsYHQ/s0/Anh-avatar-cho-con-trai-Taihinhanh-vn%2B%25284%2529.jpg'></div>
+                <div className='Anhdaidien'> <img className='avata' alt='avata' src='https://1.bp.blogspot.com/-g5X5RMt3qc4/YM9SQzzU7YI/AAAAAAAAARs/7JEMykTnSSoxjEKzmvDl6bnyggSZgLSkgCLcBGAsYHQ/s0/Anh-avatar-cho-con-trai-Taihinhanh-vn%2B%25284%2529.jpg'/> </div>
                 <div className='TTnguoidung'>
                     <h>Full name: <span className='name'> <i>Nguyen Van A</i></span></h>
                     <br />
@@ -30,8 +30,8 @@ function Navigation() {
 
                 </div>
             </footer>
-        </diV>
+        </div>
 
-    );
-}
+    )
+};
 export default Navigation;
