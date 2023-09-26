@@ -33,16 +33,7 @@ function DisplayUser(){
             {userData}
           </tbody>
         </table>
-        <br></br>
-        <form style={{fontSize:20}}>
-    <label>
-        <b>Enter your id: </b>
-      <input style={{fontSize:20}} type="text" required />
-      <br></br> <br></br>
-      <b>Enter your name: </b>
-      <input style={{fontSize:20}} type="text" required />
-    </label>
-  </form>
+        
       </div>
   );
 }
