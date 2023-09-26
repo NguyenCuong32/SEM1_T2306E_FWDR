@@ -1,0 +1,134 @@
+.App {
+  text-align: center;
+}
+
+h2
+{
+   
+    color: blue;
+    text-align: center;
+}
+.flex-container
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-item1 {
+    background-color:#59D466;
+    width: 120px;
+    margin: 15px;
+    border-radius: 10px;
+}
+.flex-item2 {
+        margin: 10px;
+       line-height: 45px;
+        font-weight: bold;
+}
+
+.flex-item3 {
+    flex-grow: 15;
+    margin: 10px;
+    text-align: right;
+    font-style: italic;
+    line-height: 45px;
+}
+.flex-item4 {
+    background-color:#81D189;
+    width: 120px;
+    margin: 15px;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+    line-height: 45px;
+    border-radius: 8px;
+}
+.flex-item5
+{
+    background-color: white;
+    flex-grow: 10;
+    text-align: left;
+    line-height: 50px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.flex-item6
+{
+    background-color: aquamarine;
+    width: 150px;
+    flex-grow: 2;
+    font-weight: bold;
+    text-align: center;
+    font-size: 15px;
+    line-height: 50px;
+}
+
+.flex-item7
+{
+    background-color:royalblue;
+    width: 150px;
+    flex-grow: 2;
+    font-weight: bold;
+    text-align: center;
+    font-size: 15px;
+    line-height: 50px;
+}
+.flex-container2{
+    width: 40%;
+    padding: 15px;
+    height: auto;
+    display: flex;
+    justify-self:center;
+    flex-direction: row;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: black solid;
+    text-align: center;
+    font-weight: bold;
+}
+
+th, td {
+    height: 50px;
+    text-align: center;
+    padding: 8px;
+    border: black solid;
+    font-weight: bold;
+}
+
+th {
+    height: 50px;
+    background-color: #f2f2f2;
+    border: black solid;
+    text-align: center;
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+.b{
+    height: 120px;
+}
+
+.container1{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.c {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    /* background-color: gray; */
+  }
+.i{
+    margin-left: 50px;
+    width: 500px;
+    height: 300px;
+
+}
