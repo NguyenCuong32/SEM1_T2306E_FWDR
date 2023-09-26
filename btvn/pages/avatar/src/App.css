@@ -1,0 +1,25 @@
+.pic1{
+  height: 150px;
+  width: 150px;
+  border-radius:75px;
+}
+.pic2{
+  height: 150px;
+  width: 150px;
+  border-radius:75px;
+}
+.container1{
+  display: grid;
+}
+.container2{
+  display: flex;
+margin-top: 70px;
+}
+.container3{
+  display: flex;
+  margin-top: 100px;
+}
+.width{
+  padding-left: 150px;
+  
+}
