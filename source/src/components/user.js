@@ -12,6 +12,7 @@ function User(props) {
     }, [count]); // <- add the count variable here
   return (
    <>
+   
    <section>
     <table>
       <tr>
