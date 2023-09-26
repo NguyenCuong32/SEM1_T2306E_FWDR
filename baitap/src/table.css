@@ -1,0 +1,17 @@
+.Table {
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th, tr, td {
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.Avata {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
