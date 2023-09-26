@@ -11,9 +11,9 @@ const Layout = () => {
             <Outlet />
             </div>
             </header>
+            <br/> <br/><br/> <br/>
         </div>
     )
 };
-
 
 export default Layout;

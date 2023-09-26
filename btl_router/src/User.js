@@ -1,4 +1,4 @@
-
+import './App.css'
 import React, { useEffect, useState } from 'react';
 function User(props) {
     const name = props.name;
@@ -15,16 +15,24 @@ function User(props) {
     },[count2]);
   return (
    <section>
-<img className="boderexam1" src = {"https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"} alt = {name}/>
+<img className="boderexam1" src = {"https://images.pexels.com/photos/1704488/pexels-photo-1704488.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"} alt = {props.name}/>
 <h2 classname="username" >
-Hi, <span className="user-firt-name"> {name}</span>
+Hi, <span className="user-firt-name"> {props.name}</span>
 </h2>
 <div>
-    <button onClick={()=>(setCount1((c)=>c+1), setCount2((c)=>c-1))} className="abc" style={{fontSize:10}}> Like 👍 {calc}</button>
-    <button onClick={()=>(setCount2((c)=>c+1), setCount1((c)=>c-1))} className="abc" style={{fontSize:10}}> Dislike 👎 {calc2} </button>
+    <button onClick={()=>(setCount1((c)=>c+1), setCount2((c)=>c-1))} className="abc" style={{fontSize:35, width:200}} > Like 👍 {calc}</button>
+    <button onClick={()=>(setCount2((c)=>c+1), setCount1((c)=>c-1))} className="abc" style={{fontSize:35, width:200}}> Dislike 👎 {calc2} </button>
     
   </div>
    </section>
   )
 }
-export default User;
+   function Temp() {
+    return (
+      <>
+        <User name="Dũng" />
+      </>
+
+  )
+}
+export default Temp;
