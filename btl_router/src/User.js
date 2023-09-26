@@ -1,4 +1,4 @@
-import './App';
+
 import React, { useEffect, useState } from 'react';
 function User(props) {
     const name = props.name;

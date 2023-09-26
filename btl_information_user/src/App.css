@@ -36,35 +36,3 @@
     transform: rotate(360deg);
   }
 }
-table {
-  border-collapse: collapse;
-  width: 100%;
-  border: black solid;
-  text-align: center;
-  font-weight: bold;
-}
-
-th, td {
-  height: 80px;
-  text-align: center;
-  padding: 8px;
-  border: black solid;
-  font-weight: bold;
-  font-size: 20;
-}
-
-th {
-  height: 100px;
-  background-color: white;
-  border: black solid;
-  text-align: center;
-  font-weight:bold;
-  font-size: 20;
-  background-color:bisque;
-}
-
-.pic {
-  height: 150px;
-  width: 150px;
-  border-radius: 50%;
-}

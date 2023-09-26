@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-item1 {
+  background-color: #81D189;
+  width: 200px;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 45px;
+  margin: 10px;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+
+}
+
+.flex-item2 {
+  background-color: #C3DAD0;
+  width: 200px;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 45px;
+  margin: 10px;
+  font-weight: bold;
+  color: white;
+  font-size: 20px;
+}
+
+.flex-item3 {
+  color: white;
+  border-radius: 5px;
+  text-align: center;
+  line-height: 45px;
+}
+.flex-item4 {
+  width: 500px;
+  padding: 40px 0 0 100px;
+  font-size: 20px;
+}
+
+.ava {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+
+.name {
+  font-style: italic;
+}
+
+.flex-item5
+{
+    background-color: white;
+    flex-grow: 10;
+    text-align: left;
+    line-height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.flex-item6
+{
+    background-color: aquamarine;
+    width: 120px;
+    flex-grow: 1;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    line-height: 30px;
+    margin: 10;
+}
+
+.flex-item7
+{
+    background-color: #7078C2;
+    width: 120px;
+    flex-grow: 1;
+    font-weight: bold;
+    text-align: center;
+    font-size: 20px;
+    line-height: 30px;
+    margin: 10;
+}
+
+.footer {
+    color: black;
+    text-decoration: none;
+}

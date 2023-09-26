@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "anh":"https://toigingiuvedep.vn/wp-content/uploads/2022/12/hinh-anh-trai-dep-trung-quoc-361x600.jpg",
+        "fullname":"Đào Viết Đức",
+        "ngaycong":"22",
+        "luongcoban":"3.500.000",
+        "tongluong":"30.000.000"
+
+    },
+    {
+        "id":2,
+        "anh":"https://toigingiuvedep.vn/wp-content/uploads/2022/12/hinh-anh-trai-dep-trung-quoc-lanh-lung-dep-nhat-388x600.jpg",
+        "fullname":"Nguyễn Cao Thắng",
+        "ngaycong":"22",
+        "luongcoban":"3.000.000",
+        "tongluong":"35.000.000"
+    },
+    {
+        "id":3,
+        "anh":"https://toigingiuvedep.vn/wp-content/uploads/2022/12/hinh-trai-dep-trung-quoc-ngau-det-400x600.jpg",
+        "fullname":"Nguyễn Đình Nam",
+        "ngaycong":"22",
+        "luongcoban":"2.800.000",
+        "tongluong":"28.000.000"
+    }
+]
